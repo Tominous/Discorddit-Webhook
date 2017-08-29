@@ -36,7 +36,7 @@ The webhook has three types of posts. Self text posts where plain text is posted
 
 Be careful running the script for the first time or after periods of inactivity, it will post 25 messages at once to load up the ids.
 
-![Preview](http://i.imgur.com/NcxWOCY.png)
+
 
 ## Licence
 [MIT Licence](https://github.com/RainbowDinoaur/Reddit-Discord-Webhook/blob/master/LICENSE)
